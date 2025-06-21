@@ -83,3 +83,11 @@ This project is a **MySQL-based Mental Health Check-In App** schema developed as
 CALL SearchResourcesByKeyword('meditation');
 CALL SearchResourcesByTag('Anxiety');
 CALL SearchResourcesByKeywordAndTag('sleep', 'Sleep');
+```
+---
+## Image for Final Tables and Procedures
+![image](https://github.com/user-attachments/assets/57d547b9-5170-418b-a7f1-69dd58fb902c)
+## ER Diagram
+![Blank diagram (1)](https://github.com/user-attachments/assets/69f4e157-b71e-4c7a-8179-c5ba1f13b74d)
+
+
